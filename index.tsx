@@ -1,3 +1,4 @@
+
 import { HDKComponent, HNode, Prefab, render, InfoPanel  } from '@hiber3d/hdk-react';
 import { Ground, Spawnpoint} from '@hiber3d/hdk-react-components';
 
